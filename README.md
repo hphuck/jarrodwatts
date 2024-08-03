@@ -1,5 +1,5 @@
-﻿# Hey 👋
+# Hey 👋
 
-I'm Jarrod, a software engineer turned developer relations engineer in web3. Currently working at Polygon Labs!
+I'm Jarrod, a software engineer turned dev rel. Currently working on Abstract!
 
 [Reach me on Twitter](https://twitter.com/jarrodWattsDev/)
