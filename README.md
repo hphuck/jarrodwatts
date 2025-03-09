@@ -1,4 +1,4 @@
-# Hey 👋
+# Hey guy 👋
 
 I'm Jarrod, a software engineer turned dev rel. Currently working on Abstract!
 
